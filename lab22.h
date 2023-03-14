@@ -16,7 +16,7 @@ class Equipment{
 		vector<int> getStat();			
 };
 
-class Unit{
+class Unit{ 
 		string name;
 		string type;		
 		int hp;
